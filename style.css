@@ -62,6 +62,7 @@ body{
 }
 
 .card {
+    margin-top: 100px;	
     margin: 0 auto;
     background-color: #fff;
     text-align: center;
